@@ -1,0 +1,6 @@
+com\vl\qa\pageobjects\Order_obj.class
+com\vl\qa\pageobjects\Login_obj.class
+com\vl\qa\baseutils\Base.class
+com\vl\qa\baseutils\GetProperties.class
+com\vl\qa\pageobjects\Homepage_obj.class
+com\vl\qa\pageobjects\MyAccounts_obj.class

@@ -1,0 +1,5 @@
+com\vl\qa\steps\Hook.class
+com\vl\qa\runner\TestRunner.class
+com\vl\qa\steps\Order_tst.class
+com\vl\qa\steps\Login_test.class
+com\vl\qa\steps\MyAccounts_test.class

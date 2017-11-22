@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.vl.qa.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 27.233 sec <<< FAILURE! - in com.vl.qa.runner.TestRunner
+feature(com.vl.qa.runner.TestRunner)  Time elapsed: 26.577 sec  <<< FAILURE!
+cucumber.runtime.CucumberException: 
+java.lang.AssertionError: The following asserts failed:
+	expected [true] but found [false],
+	<b style='background-Tomato;'>Scenario failed due to the response time is greater than 10secs</b>
+Caused by: java.lang.AssertionError: 
+The following asserts failed:
+	expected [true] but found [false],
+	<b style='background-Tomato;'>Scenario failed due to the response time is greater than 10secs</b>
+

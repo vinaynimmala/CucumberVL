@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.vl.qa.runner.TestRunner" time="27.233" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin"/>
+    <property name="java.vm.version" value="25.151-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Automation\Projects\Atomic\Atomic"/>
+    <property name="java.runtime.version" value="1.8.0_151-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\VINAY~2.NIM\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="D:\Automation\Projects\Atomic\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8305025961206084000.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_151/bin/server;C:/Program Files/Java/jre1.8.0_151/bin;C:/Program Files/Java/jre1.8.0_151/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;  D:\Automation\Tools\adt-bundle-windows-x86_64-20131030\adt-bundle-windows-x86_64-20131030\sdk;C:\windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Android;C:\Windows\System32;C:\Program Files\Java\jdk1.8.0_151\bin;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\:D:\SDK;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\PuTTY\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;D:\Automation\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;D:\Automation\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\vinay.nimmala"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="vinay.nimmala"/>
+    <property name="java.class.path" value="/D:/Automation/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.5.1.20150109-1819/jars/plexus-classworlds-2.5.1.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_151\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B verify"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_151"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_151\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Automation\Projects\Atomic\Atomic\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="feature" classname="com.vl.qa.runner.TestRunner" time="26.577">
+    <failure message="java.lang.AssertionError: The following asserts failed:&#10;	expected [true] but found [false],&#10;	&lt;b style=&apos;background-Tomato;&apos;&gt;Scenario failed due to the response time is greater than 10secs&lt;/b&gt;" type="cucumber.runtime.CucumberException"><![CDATA[cucumber.runtime.CucumberException: 
+java.lang.AssertionError: The following asserts failed:
+	expected [true] but found [false],
+	<b style='background-Tomato;'>Scenario failed due to the response time is greater than 10secs</b>
+Caused by: java.lang.AssertionError: 
+The following asserts failed:
+	expected [true] but found [false],
+	<b style='background-Tomato;'>Scenario failed due to the response time is greater than 10secs</b>
+]]></failure>
+    <system-out><![CDATA[Browser: firefox
+working
+Username: 3 Password: Value*123
+totaltime: 10489
+Assert failed
+]]></system-out>
+    <system-err><![CDATA[1509952695220	geckodriver	INFO	geckodriver 0.19.0
+1509952695227	geckodriver	INFO	Listening on 127.0.0.1:9971
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+1509952695756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\VINAY~2.NIM\\AppData\\Local\\Temp\\rust_mozprofile.xqCc2yV6CzXs"
+1509952696764	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509952697611	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\vinay.nimmala\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9488] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9488] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509952699989	Marionette	INFO	Listening on port 62898
+1509952701019	Marionette	DEBUG	Register listener.js for window 4294967297
+Nov 06, 2017 12:48:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1509952701158	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509952701985	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509952701985	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509952708387	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test-evo.myvoffice.com/"
+1509952710236	Marionette	DEBUG	Received DOM event "pageshow" for "http://test-evo.myvoffice.com/"
+Unable to read VR Path Registry from C:\Users\vinay.nimmala\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://test-evo.myvoffice.com/, line 91: TypeError: document.getElementById(...) is null
+1509952710533	Marionette	DEBUG	Received DOM event "beforeunload" for "http://test-evo.myvoffice.com/"
+1509952714751	Marionette	DEBUG	Received DOM event "pagehide" for "http://test-evo.myvoffice.com/"
+1509952714753	Marionette	DEBUG	Received DOM event "unload" for "http://test-evo.myvoffice.com/"
+1509952719359	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://test-evo.myvoffice.com/ShoppingCart/index.cfm?pid=7243296"
+1509952720747	Marionette	DEBUG	Received DOM event "pageshow" for "https://test-evo.myvoffice.com/ShoppingCart/index.cfm?pid=7243296"
+]]></system-err>
+  </testcase>
+</testsuite>
