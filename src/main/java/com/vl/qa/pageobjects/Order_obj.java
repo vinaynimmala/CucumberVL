@@ -29,9 +29,12 @@ public class Order_obj extends Base{
 	@FindBy(how = How.XPATH, using ="//input[@value='COMPLETE PURCHASE']")
 	private WebElement completePurchase;
 	
+	
+	
 	public Order_obj()
 	{
 		PageFactory.initElements(driver, this);
+		System.out.println("");
 	}
 	
 	public void selectCategoryOne()
